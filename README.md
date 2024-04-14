@@ -13,6 +13,9 @@ Evaluation: 323 real images and 7312 spoof images
 CASIA Dataset
 The CASIA dataset contains a collection of real and fake images, with details such as image resolution, color depth, and compression format.
 
+The dataset can be found here:
+https://www.kaggle.com/datasets/ahmedruhshan/lcc-fasd-casia-combined
+
 Usage
 
 Clone the repository:
