@@ -1,4 +1,4 @@
-# 🛡️ Face Anti-Spoofing Detection using Swin Transformer
+# 🛡️ Leveraging Swin Transformer for Robust Deepfake Detection
 ### LCC-FASD + CASIA Combined Dataset · PyTorch · Transfer Learning
 
 [![IEEE Paper](https://img.shields.io/badge/IEEE-Published%20Paper-blue?logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10932042)
